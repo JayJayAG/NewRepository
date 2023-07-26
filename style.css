@@ -1,0 +1,35 @@
+/*Selector {
+	Property: value;
+}*/
+
+h1{
+	color: red;
+	text-shadow: darkred;
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #FAE1CE;
+	border: 5px solid black;
+	
+
+}
+
+h2{
+	color: orange;
+	background-color: #FAF4CE;
+	border: 1px solid black;
+
+}
+
+h3{
+	text-align: center;
+	font-family: fantasy;
+	color: darkseagreen;
+	-webkit-text-stroke: 0.5px black;
+	background-color: #E8FACE;
+	border: 0.5px solid black;
+	flex: end;
+}
+
+ul{
+	-webkit-box-shadow: 4px 5px 5px black;
+}
